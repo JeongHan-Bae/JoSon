@@ -35,7 +35,7 @@ int main() {
         }
     })";
 
-    // Convert the JSON string to a Doc object
+    // Convert the JSON string to a Doc object without progress bar by default
     Doc introduction = JoSon::Utils::string_to_doc(introduction_str);
 
     // Insert the introduction section into the main document
@@ -72,7 +72,7 @@ int main() {
     std::cout << "\nStore to file...\n";
     JoSon::Utils::store_doc_to_json("HelloJoSon.json", joson_doc);
 
-    // Read the JoSon document from the JSON file
+    // Read the JoSon document from the JSON file with a progress bar
     Doc rd = JoSon::Utils::read_json_file("HelloJoSon.json", true);
 
     // Print the JoSon document read from the file with colors

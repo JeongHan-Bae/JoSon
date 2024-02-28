@@ -99,8 +99,9 @@ With a passion for creating efficient and user-friendly solutions, JeongHan-Bae 
 
 ## About the Name "JoSon"
 
-The name "JoSon" is a combination of "JoSeon" and "JSON." "JoSeon" represents Korea, reflecting the ethnic Korean heritage of the author, JeongHan-Bae. 
-By blending "JoSeon" with "JSON," the widely-used data interchange format, the name "JoSon" pays homage to both Korean culture and the JSON standard.
+The name "JoSon" is derived from the Sino-Korean word "조손," meaning "grandson," which is anglicized as "JoSon." This linguistic connection underscores the library's lightweight nature, akin to the significance of a grandchild within familial lineage. Furthermore, "JoSon" symbolizes more than just a name; it represents a blend of cultural heritage and technological innovation, reflecting both the author's Korean roots and the modern JSON data format. As the child of its creator and the grandchild of his father, "JoSon" pays homage to familial legacy and respect.
+
+In essence, "JoSon" embodies the fusion of tradition and modernity, making it a fitting title for this user-friendly JSON processing library.
 
 ## License
 
